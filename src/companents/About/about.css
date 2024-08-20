@@ -1,0 +1,37 @@
+.about{
+    height: 400px;
+    width: 100%;
+   
+    .about_wrapper{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        height: 600px;
+        width: 100%;
+        h1{
+            font-size: 48px;
+            font-weight: 700px;
+            margin: 10px;
+        }
+        h4{
+            font-size: 32px;
+            font-weight: 200;
+            margin: 10px;
+        }
+        .pesonal_info_div_1{
+            display: flex;
+            margin: 20px;
+            p{
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 30px;
+                margin: 15px;
+            }
+        }
+        .div_info_about{
+           
+            display: flex;
+            margin: 20px;
+        }
+    }
+}

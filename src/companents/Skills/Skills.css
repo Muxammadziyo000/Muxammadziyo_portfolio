@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.css-nc6g93-MuiGauge-container text {
+    fill: none;
+    color: none;
+
+}
+
+.css-nc6g93-MuiGauge-container text {
+    fill: #FFF !important;
+    color: #FFF !important;
+
+}
+
+.css-1knrjuw text {
+    fill: none;
+    color: none;
+}
+
+.css-1knrjuw text {
+    fill: #FFF !important;
+    color: #FFF !important;
+}
+
+.skills_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    .skill {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 40px;
+        flex-direction: column;
+    }
+}
