@@ -12,24 +12,27 @@
     height: 600px;
     width: 100%;
 
-    h1 {
-        font-size: 48px;
-        font-weight: 700px;
-        margin: 10px;
-    }
 
-    h4 {
-        font-size: 32px;
-        font-weight: 200;
-        margin: 10px;
-    }
 
 
 
 }
 
+.about_wrapper h1 {
+    font-size: 48px;
+    font-weight: 700px;
+    margin: 10px;
+}
+
+.about_wrapper h4 {
+    font-size: 32px;
+    font-weight: 200;
+    margin: 10px;
+}
+
+
 .pesonal_info_div_1 {
-    background-color: red;
+
     display: flex;
     margin: 20px;
 
