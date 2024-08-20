@@ -29,6 +29,7 @@
 }
 
 .pesonal_info_div_1 {
+    background-color: red;
     display: flex;
     margin: 20px;
 
